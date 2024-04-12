@@ -7,6 +7,7 @@ O projeto consiste na construção de uma API REST para uma escola, com operaç�
 
 ## Tecnologias Utilizadas
 - Java 17
+- Maven
 - Lombok
 - Data Base H2 (para testes)
 - JPA
