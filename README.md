@@ -16,6 +16,29 @@ O projeto consiste na construção de uma API REST para uma escola, com operaç�
 - Spring Web
 - Spring Security
 
+## Anotações Utilizadas
+- @AllArgsConstructor
+- @Autowired
+- @Column
+- @CPF
+- @DeleteMapping
+- @Email
+- @Embedded
+- @Entity
+- @GeneratedValue(strategy = GenerationType.IDENTITY)
+- @Getter
+- @Id
+- @NoArgsConstructor
+- @Pattern
+- @PostMapping
+- @PutMapping
+- @Repository
+- @Service
+- @Setter
+- @Table
+- @Valid
+- @GetMapping
+
 ## Funcionalidades
 - Cadastrar estudante e colaborador
 - Listar estudante e colaborador
