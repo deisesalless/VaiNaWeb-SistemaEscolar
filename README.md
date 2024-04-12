@@ -54,4 +54,4 @@ O projeto segue a arquitetura MVC (Model-View-Controller), com algumas abordagen
 As respostas do sistema seguem os padrões dos protocolos HTTP, retornando códigos de status apropriados de acordo com o resultado da requisição.
 
 ## Diagrama de Classes (UML)
-(Inserir imagem do diagrama de classes aqui)
+<p align="center"> <img width="800px" src="https://github.com/deisesalless/VaiNaWeb-SistemaEscolar/blob/main/UML/Sistema%20Escolar.jpeg" /> </p>
